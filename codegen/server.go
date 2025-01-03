@@ -3,7 +3,7 @@ package codegen
 import (
 	"context"
 
-	pb "github.com/sqlc-dev/plugin-sdk-go/plugin"
+	pb "github.com/kazegusuri/plugin-sdk-go/plugin"
 )
 
 type server struct {

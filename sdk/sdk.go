@@ -1,9 +1,9 @@
 package sdk
 
 import (
-	pb "github.com/sqlc-dev/plugin-sdk-go/plugin"
+	pb "github.com/kazegusuri/plugin-sdk-go/plugin"
 
-	"github.com/sqlc-dev/plugin-sdk-go/pattern"
+	"github.com/kazegusuri/plugin-sdk-go/pattern"
 )
 
 func DataType(n *pb.Identifier) string {

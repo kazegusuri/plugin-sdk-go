@@ -14,7 +14,7 @@ import (
 	"google.golang.org/protobuf/proto"
 	"google.golang.org/protobuf/reflect/protoreflect"
 
-	pb "github.com/sqlc-dev/plugin-sdk-go/plugin"
+	pb "github.com/kazegusuri/plugin-sdk-go/plugin"
 )
 
 func Handle(server pb.CodegenServiceServer) {

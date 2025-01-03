@@ -1,4 +1,4 @@
-module github.com/sqlc-dev/plugin-sdk-go
+module github.com/kazegusuri/plugin-sdk-go
 
 go 1.19
 
